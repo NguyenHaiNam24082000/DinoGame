@@ -1,0 +1,158 @@
+
+52
+
+BlueDino1
+image data/DinoCharacter/BlueDino/BlueDino-1.png
+
+BlueDino2
+image data/DinoCharacter/BlueDino/BlueDino-2.png
+
+BlueDino3
+image data/DinoCharacter/BlueDino/BlueDino-3.png
+
+BlueDino4
+image data/DinoCharacter/BlueDino/BlueDino-4.png
+
+BlueDino5
+image data/DinoCharacter/BlueDino/BlueDino-5.png
+
+BlueDino6
+image data/DinoCharacter/BlueDino/BlueDino-6.png
+
+BlueDino7
+image data/DinoCharacter/BlueDino/BlueDino-7.png
+
+BlueDino8
+image data/DinoCharacter/BlueDino/BlueDino-8.png
+
+BlueDino9
+image data/DinoCharacter/BlueDino/BlueDino-9.png
+
+BlueDino10
+image data/DinoCharacter/BlueDino/BlueDino-10.png
+
+BlueDino11
+image data/DinoCharacter/BlueDino/BlueDino-11.png
+
+BlueDino12
+image data/DinoCharacter/BlueDino/BlueDino-12.png
+
+BlueDino13
+image data/DinoCharacter/BlueDino/BlueDino-13.png
+
+BlueDino14
+image data/DinoCharacter/BlueDino/BlueDino-14.png
+
+BlueDino15
+image data/DinoCharacter/BlueDino/BlueDino-15.png
+
+BlueDino16
+image data/DinoCharacter/BlueDino/BlueDino-16.png
+
+BlueDino17
+image data/DinoCharacter/BlueDino/BlueDino-17.png
+
+BlueDino18
+image data/DinoCharacter/BlueDino/BlueDino-18.png
+
+BlueDino19
+image data/DinoCharacter/BlueDino/BlueDino-19.png
+
+BlueDino20
+image data/DinoCharacter/BlueDino/BlueDino-20.png
+
+BlueDino21
+image data/DinoCharacter/BlueDino/BlueDino-21.png
+
+BlueDino22
+image data/DinoCharacter/BlueDino/BlueDino-22.png
+
+BlueDino23
+image data/DinoCharacter/BlueDino/BlueDino-23.png
+
+BlueDino24
+image data/DinoCharacter/BlueDino/BlueDino-24.png
+
+Bomb1
+image data/Bomb/BombRain/Bomb-1.png
+
+Bomb2
+image data/Bomb/BombRain/Bomb-2.png
+
+Bomb3
+image data/Bomb/BombRain/Bomb-3.png
+
+Bomb4
+image data/Bomb/BombRain/Bomb-4.png
+
+Explotion1
+image data/Bomb/Explotion/Explotion-1.png
+
+Explotion2
+image data/Bomb/Explotion/Explotion-2.png
+
+Explotion3
+image data/Bomb/Explotion/Explotion-3.png
+
+Explotion4
+image data/Bomb/Explotion/Explotion-4.png
+
+Explotion5
+image data/Bomb/Explotion/Explotion-5.png
+
+Explotion6
+image data/Bomb/Explotion/Explotion-6.png
+
+Explotion7
+image data/Bomb/Explotion/Explotion-7.png
+
+Explotion8
+image data/Bomb/Explotion/Explotion-8.png
+
+Explotion9
+image data/Bomb/Explotion/Explotion-9.png
+
+Appearing1
+image data/DinoCharacter/Appearing/Appearing-1.png
+
+Appearing2
+image data/DinoCharacter/Appearing/Appearing-2.png
+
+Appearing3
+image data/DinoCharacter/Appearing/Appearing-3.png
+
+Appearing4
+image data/DinoCharacter/Appearing/Appearing-4.png
+
+Appearing5
+image data/DinoCharacter/Appearing/Appearing-5.png
+
+Appearing6
+image data/DinoCharacter/Appearing/Appearing-6.png
+
+Appearing7
+image data/DinoCharacter/Appearing/Appearing-7.png
+
+Appearing8
+image data/DinoCharacter/Appearing/Appearing-8.png
+
+Desappearing1
+image data/DinoCharacter/Desappearing/Desappearing-1.png
+
+Desappearing2
+image data/DinoCharacter/Desappearing/Desappearing-2.png
+
+Desappearing3
+image data/DinoCharacter/Desappearing/Desappearing-3.png
+
+Desappearing4
+image data/DinoCharacter/Desappearing/Desappearing-4.png
+
+Desappearing5
+image data/DinoCharacter/Desappearing/Desappearing-5.png
+
+Desappearing6
+image data/DinoCharacter/Desappearing/Desappearing-6.png
+
+Desappearing7
+image data/DinoCharacter/Desappearing/Desappearing-7.png

@@ -1,0 +1,14 @@
+
+4
+
+Bomb5
+image data/Bomb/BombRain/Bomb-5.png
+
+Bomb6
+image data/Bomb/BombRain/Bomb-6.png
+
+Bomb7
+image data/Bomb/BombRain/Bomb-7.png
+
+Bomb8
+image data/Bomb/BombRain/Bomb-8.png

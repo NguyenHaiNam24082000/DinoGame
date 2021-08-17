@@ -1,0 +1,8 @@
+
+2
+
+BlueDino15
+image data/DinoCharacter/BlueDino/BlueDino-15.png
+
+BlueDino16
+image data/DinoCharacter/BlueDino/BlueDino-16.png

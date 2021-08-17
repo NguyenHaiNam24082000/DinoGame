@@ -1,0 +1,17 @@
+
+5
+
+GreenDino5
+image data/DinoCharacter/GreenDino/GreenDino-5.png
+
+GreenDino6
+image data/DinoCharacter/GreenDino/GreenDino-6.png
+
+GreenDino7
+image data/DinoCharacter/GreenDino/GreenDino-7.png
+
+GreenDino8
+image data/DinoCharacter/GreenDino/GreenDino-8.png
+
+GreenDino9
+image data/DinoCharacter/GreenDino/GreenDino-9.png

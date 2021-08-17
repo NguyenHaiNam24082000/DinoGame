@@ -1,0 +1,8 @@
+
+2
+
+GreenDino15
+image data/DinoCharacter/GreenDino/GreenDino-15.png
+
+GreenDino16
+image data/DinoCharacter/GreenDino/GreenDino-16.png
